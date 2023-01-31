@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ConnectionPooling/src"/>
+	<classpathentry kind="src" path="CustomTag/src"/>
+	<classpathentry kind="src" path="FiltersDemo/src"/>
+	<classpathentry kind="src" path="InterServletCommunication/src"/>
+	<classpathentry kind="src" path="JDBCBasics/src"/>
+	<classpathentry kind="src" path="JSPActions/src"/>
+	<classpathentry kind="src" path="ListenerDemo/src"/>
+	<classpathentry kind="src" path="MVCDemo/src"/>
+	<classpathentry kind="src" path="PreInitDemo/src"/>
+	<classpathentry kind="src" path="PreparedStatement/src"/>
+	<classpathentry kind="src" path="ServletBasics/src"/>
+	<classpathentry kind="src" path="SessionManagement/src"/>
+	<classpathentry kind="src" path="UserApp/src"/>
+	<classpathentry kind="lib" path="JDBCBasics/lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="JSPBasics/WebContent/WEB-INF/lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="JSTLApp/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="JSTLApp/WebContent/WEB-INF/lib/standard-1.0.3.jar"/>
+	<classpathentry kind="lib" path="UserApp/WebContent/WEB-INF/lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="output" path="ConnectionPooling/build/classes"/>
+</classpath>
